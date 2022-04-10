@@ -1,0 +1,11 @@
+# Environment / configs
+.env
+.vscode/**
+
+## Compiled files
+*.pyc
+__pycache__
+
+## Large files
+*.ipynb
+data/**

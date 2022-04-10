@@ -1,0 +1,6 @@
+jupyter
+jupytext
+numpy
+opencv
+pillow
+scipy
